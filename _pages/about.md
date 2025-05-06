@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.snu.ac.kr/'>서울대학교</a> | <a href='https://www.cls.snu.ac.kr/'>자유전공학부</a> | <a href='https://www.cse.snu.ac.kr/'>컴퓨터공학부</a> | <a href='https://www.history.snu.ac.kr/'>역사학부</a> | <a href='https://www.dsh.snu.ac.kr/'>연계전공 인문데이터과</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>아이바네즈 sr300e 베이스</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
