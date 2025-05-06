@@ -6,7 +6,7 @@ subtitle: "<a href='https://snu.ac.kr'>서울대학교</a> | <a href='https://cl
 
 profile:
   align: right
-  image: prof-pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>아이바네즈 sr300e 베이스</p>
