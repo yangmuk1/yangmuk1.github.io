@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-markdown-문법-기초",
+            },{id: "post-베이스의-기초",
+        
+          title: "베이스의 기초",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/bass-101/";
+          
+        },
+      },{id: "post-markdown-문법-기초",
         
           title: "Markdown 문법 기초",
         
