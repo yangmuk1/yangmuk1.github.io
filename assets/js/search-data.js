@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-나의-첫-jekyll-블로그-포스트",
         
-          title: "",
+          title: "나의 첫 Jekyll 블로그 포스트",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-04-30-my-first-jekyll-blog-post/";
+            window.location.href = "/blog/2025/my-first-jekyll-blog-post/";
           
         },
       },{id: "post-a-post-with-plotly-js",
