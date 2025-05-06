@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.snu.ac.kr/'>서울대학교</a> | <a href='https://www.cls.snu.ac.kr/'>자유전공학부</a> | <a href='https://www.cse.snu.ac.kr/'>컴퓨터공학부</a> | <a href='https://www.history.snu.ac.kr/'>역사학부</a> | <a href='https://www.dsh.snu.ac.kr/'>연계전공 인문데이터과학</a>
+subtitle: <a href='https://www.snu.ac.kr/'>서울대학교</a> | <a href='https://cls.snu.ac.kr/'>자유전공학부</a> | <a href='https://cse.snu.ac.kr/'>컴퓨터공학부</a> | <a href='https://history.snu.ac.kr/'>역사학부</a> | <a href='https://dsh.snu.ac.kr/'>연계전공 인문데이터과학</a>
 
 profile:
   align: right
