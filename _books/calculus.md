@@ -1,7 +1,7 @@
 ---
 layout: book-review
-title: 미적분
-author: 김홍
+title: 미적분학
+author: 김홍종
 cover: assets/img/book_covers/calculus.jpg
 olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
